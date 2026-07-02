@@ -1,0 +1,9 @@
+IF=1
+DOTDOBLE=2
+NUM=3
+IDT=4
+MAYOR=5
+WS=6
+'if'=1
+':'=2
+'>'=5
