@@ -28,7 +28,7 @@ py -m venv .venv
 ```
 ## PASO 5- GENERAR EL PARSER Y EL LEXER EJECUTANDO EL SIGUENTE COMANDO
 ```powershell
-java -jar C:\Users\isabe\Downloads\antlr-4.13.2-complete.jar -Dlanguage=Python3 -no-listener .\Expr.g4
+java -jar C:\Users\isabe\Downloads\antlr-4.13.2-complete.jar -Dlanguage=Python3-no-listener .\Expr.g4
 ```
 ## PASO 6- EJECUTAR EL SCRIPT 
 
