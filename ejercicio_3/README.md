@@ -16,7 +16,7 @@ cd Competencia-2
 ENTRAR A LA CARPETA DEL EJERCICIO
 
 ```powershell
-cd Ejercicio_1
+cd Ejercicio_3
 ```
 
 ### PASO 3-
