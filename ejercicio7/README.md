@@ -5,7 +5,7 @@ Incluye un script para leer tokens desde un archivo o desde la entrada directa.
 
 ## PASO 1- CLONAR EL REPOSITORIO EJECUTANDO LOS SIGUIENTES COMANDOS
 ```powershell
-git clone "https://github.com/tu-usuario/Competencia-2.git"
+git clone "https://github.com/4bram/Competencia-2.git"
 ```
 ```powershell
 cd Competencia-2
