@@ -1,0 +1,13 @@
+IF=1
+WS=2
+LPAREN=3
+IDT=4
+MAYOR=5
+NUM=6
+RPAREN=7
+DOBLE=8
+'if'=1
+'('=3
+'>'=5
+')'=7
+':'=8
