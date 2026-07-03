@@ -6,7 +6,7 @@
 
 ## PASO 1- CLONAR EL REPOSITORIO EJECUTANDO LOS SIGUIENTES COMANDOS
 
-git clone "https://github.com/tu-usuario/Competencia-2.git"
+git clone "https://github.com/4bram/Competencia-2.git"
 
 cd Competencia-2
 
