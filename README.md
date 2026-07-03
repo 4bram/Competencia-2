@@ -37,3 +37,10 @@ java -jar C:\Users\isabe\Downloads\antlr-4.13.2-complete.jar -Dlanguage=Python3 
 ### Opción 2 (CONSOLA
 
 .\.venv\Scripts\python.exe Text.py "operacion deseada"
+
+### Autores
+Herrera Morales Jose Angel       21030374
+
+Silva Méndez Abraham             20031313
+
+Silva Macias Guadalupe Isabel    2003108
