@@ -22,6 +22,7 @@ py -m venv .venv
 java -jar C:\Users\isabe\Downloads\antlr-4.13.2-complete.jar -Dlanguage=Python3 -no-listener .\Expr.g4
 
 #PASO 6- EJECUTAR EL SCRIPT 
+
 Opción 1 (ARCHIVO)
 .\.venv\Scripts\python.exe Text.py prueba.txt
 
