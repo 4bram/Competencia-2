@@ -1,0 +1,1 @@
+print("Wenn ich das als Erste verstele, ubersetze un dem Lehrer vorlese, verdienn ich 10 Extrapunkte, zusatzlich rur zur Abgabe meiner Regeln und meiner Token-Tabelle");

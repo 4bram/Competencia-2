@@ -1,0 +1,9 @@
+IDT=1
+LPAREN=2
+STR=3
+RPAREN=4
+SCOLON=5
+WS=6
+'('=2
+')'=4
+';'=5
